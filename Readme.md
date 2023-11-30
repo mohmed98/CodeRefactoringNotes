@@ -1,0 +1,1 @@
+This repo is to work through the book [Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html) by Martin Fowler, Kent Beck, John Brant, William Opdyke, and Don Roberts.
